@@ -1,7 +1,5 @@
 ### Hi, I'm Karan👋
-#### I am React Developer
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+#### React Developer
 
 Skills: REACT / JS / HTML / CSS / MYSQL / MSSQL / REDUX
 

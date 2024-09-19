@@ -1,7 +1,7 @@
 ### Hi, I'm Karan👋
-#### React Developer
+#### Full Stack Developer
 
-Skills: REACT / JS / HTML / CSS / MYSQL / MSSQL / REDUX
+Skills: REACT / NODE / JS / MYSQL / MSSQL / REDUX
 
 - 🔭 I’m currently working on this page. 
 

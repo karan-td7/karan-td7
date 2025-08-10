@@ -16,7 +16,7 @@
 ---
 
 ### 🌙 Night Owl Mode
-![Night Owl](https://img.shields.io/badge/Code%20Mode-Night%20Owl-8A2BE2?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Night Owl](https://img.shields.io/badge/Code%20Mode-Night%20Owl-8A2BE2?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Late Night Commits](https://img.shields.io/badge/Most%20Active%20Time-10PM%20to%202AM-blueviolet?style=for-the-badge&logo=github)
 
 ---

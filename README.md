@@ -11,7 +11,7 @@
 - 💡 Passionate about crafting clean UIs, optimizing performance, and solving complex data challenges.  
 - 📚 Always learning — lately diving deeper into **GraphQL**, **TypeScript**, and advanced state management patterns.  
 - 🌙 Night owl coder — my best ideas often appear after midnight.  
-- ⚡ Fun fact: I believe coffee ☕ is just liquid debugging fuel.
+- ⚡ Fun fact: I believe **black coffee** ☕ is just liquid debugging fuel.
 
 ---
 

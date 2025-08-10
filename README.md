@@ -10,12 +10,14 @@
 - 🔭 Currently building and refining **Next.js** apps with **Apollo Client** for smooth GraphQL & REST integrations.  
 - 💡 Passionate about crafting clean UIs, optimizing performance, and solving complex data challenges.  
 - 📚 Always learning — lately diving deeper into **GraphQL**, **TypeScript**, and advanced state management patterns.  
+- 🌙 Night owl coder — my best ideas often appear after midnight.  
 - ⚡ Fun fact: I believe coffee ☕ is just liquid debugging fuel.
 
 ---
 
-### 📈 My GitHub Stats
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karan&show_icons=true&theme=tokyonight)
+### 🌙 Night Owl Mode
+![Night Owl](https://img.shields.io/badge/Code%20Mode-Night%20Owl-8A2BE2?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Late Night Commits](https://img.shields.io/badge/Most%20Active%20Time-10PM%20to%202AM-blueviolet?style=for-the-badge&logo=github)
 
 ---
 

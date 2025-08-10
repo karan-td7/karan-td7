@@ -2,7 +2,7 @@
 ### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
 
 💻 **Skills & Tech Stack**  
-`Next.js` • `React` • `Apollo Client` • `Node.js` • `TypeScript` • `JavaScript` • `MySQL` • `MSSQL` • `Redux`  
+`Next.js` • `React` • `Node.js` • `TypeScript` • `JavaScript` • `MySQL` • `MSSQL` • `Redux` • `Apollo Client` 
 
 ---
 
